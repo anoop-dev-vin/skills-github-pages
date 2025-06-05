@@ -1,9 +1,6 @@
 ---
-layout: post
-title: "Understanding CORS: What It Is and Why It Matters"
+title: "MY First Blog"
 date: 2025-06-06
-categories: [Web Development, APIs, Security]
-tags: [cors, api, security, web development, headers]
 ---
 
 When working with APIs in modern web development, you’ll eventually run into something called **CORS** — and it can be frustrating if you don’t understand what’s going on.
