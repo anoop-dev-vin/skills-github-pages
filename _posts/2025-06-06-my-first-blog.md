@@ -1,5 +1,5 @@
 ---
-title: "MY First Blog"
+title: "MY-FIRST-BLOG"
 date: 2025-06-06
 ---
 
