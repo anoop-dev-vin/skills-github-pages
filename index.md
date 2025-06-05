@@ -1,6 +1,6 @@
 ---
+title: Anoop Ghatelwal
 layout: default
-title: Home
 ---
 
 # 🚀 Web Development Services
