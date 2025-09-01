@@ -35,7 +35,7 @@ We provide **professional web development services** tailored to your business n
 ## 📞 Contact Us
 
 📧 Email: [your@email.com](mailto:your@email.com)  
-🌍 Website: [www.yourwebsite.com](https://www.yourwebsite.com)  
+🌍 Website: [www.anoop.shop](https://www.anoop.shop)  
 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
 
 ---
